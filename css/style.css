@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+}
+.sfondo{
+    background-image: url(../img/pattern.png);
+    background-color: blueviolet;
+    background-size: contain;
+    background-repeat: repeat; 
+}
+.logo{
+    width: 200px;
+    height: 100px;
+    padding: 0 10px;
+
+}
+main{
+    padding: 10px;
+}
+h4, h5{
+    color: grey;
+}
+a:link{
+    text-decoration:none ;
+}
