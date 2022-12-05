@@ -29,6 +29,31 @@ a:link{
     text-decoration:none ;
 }
 /* Testo e lista  */
+li{
+    margin: 0 20px;
+}
 span{
     background-color: yellow;
+}
+
+
+/* tabella  */
+.tabella{
+    border-collapse: unset;
+    border-spacing: 0;
+}
+thead{
+    background-color: rgb(10, 90, 239);
+    color: white;
+    text-align: left;
+}
+tbody{
+    background-color: rgb(29, 181, 232);
+}
+td, th{
+    min-width: 400px;
+    
+}
+#whitebg{
+    background-color: white;
 }
