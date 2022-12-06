@@ -22,12 +22,18 @@ section, p, footer, .box{
 }
 
  /* SPECIFICA DELLA PRIMA FASE CON FOTO  */
-
+h1{
+    font-size: 52px;
+}
 h4, h5{
     color: grey;
 }
 a:link{
     text-decoration:none ;
+}
+img{
+    width: 680px;
+    height: 500px;
 }
 /* Testo e lista  */
 li{

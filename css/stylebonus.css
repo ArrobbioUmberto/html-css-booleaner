@@ -29,6 +29,11 @@ a:link{
 h6,h4, h5{
     margin:0;
 }
+/* parte delle immagini di tim  */
+img{
+    width: 550px;
+    height: 450px;
+}
 /* Testo e lista  */
 li{
     margin: 0 20px;
